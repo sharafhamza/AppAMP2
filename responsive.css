@@ -1,0 +1,42 @@
+@media (max-width:992px){
+    .counter-number-item{
+        margin-bottom: 30px;
+    }
+    .slider-caption h2 {
+        margin-bottom: 44px;
+        font-size: 34px;
+    }
+    .slider-caption .form-control {
+        padding: 10px 12px;
+    }
+    .slider-caption .btn {
+        background: #5ba533;
+        padding: 6px 12px;
+        font-size: 27px;
+        margin-top: 30px;
+    }
+    .slider-section {
+        padding: 140px 0;
+      
+    }
+    .slider-caption h4 {
+        margin-bottom: 35px;
+        font-size: 20px;
+    }
+    .about-text-left .lead {
+        font-size: 18px;
+        line-height: 1.7rem;
+        text-align: justify;
+    }
+    .about-text-left {
+        margin-top: 52px;
+    }
+    .pricing-item {
+        margin-bottom: 30px;
+      }
+}
+@media (max-width:576px){
+    .counter-number-item{
+        margin-bottom: 40px;
+    }
+}
